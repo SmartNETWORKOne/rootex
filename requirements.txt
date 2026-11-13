@@ -1,0 +1,11 @@
+certstream
+httpx
+sqlalchemy
+psycopg2-binary
+beautifulsoup4
+sentence-transformers
+qdrant-client
+numpy
+fastapi
+uvicorn
+python-dotenv
